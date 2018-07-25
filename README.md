@@ -16,13 +16,14 @@ The script will create a folder in 'data/' named after the committee's ID.
 
 ### Options
 **Filing types**
-| Type| Description | Use option |
-| --- | --- | --- |
-| Schedule A filings | Itemized recipts given to a committee. Use this to find individual contributors. This does not include contributions less than $200, so use the 'Summary reports' option to get the total for unitemized contributions. | `receipts` |
-| Schedule B filings | Itemized disbursements, or how the committees are spending their money. | `disbursements` |
-| Independant Expenditures (Schedule E filings) |  An expenditure for a communication “expressly advocating the election or defeat of a clearly identified candidate that is not made in cooperation, consultation, or concert with, or at the request or suggestion of, a candidate, a candidate’s authorized committee, or their agents, or a political party or its agents.”| `ie` |
-| Summary reports | Summarized information about a committees finances, included total money raised and spent per filing period. | `reports` |
-| Filings list | A list of reports filed by the committee to the FEC. | `filings` |
+
+Type| Description | Use option
+--- | --- | ---
+Schedule A filings | Itemized recipts given to a committee. Use this to find individual contributors. This does not include contributions less than $200, so use the 'Summary reports' option to get the total for unitemized contributions. | receipts
+Schedule B filings | Itemized disbursements, or how the committees are spending their money. | disbursements
+Independant Expenditures (Schedule E filings) |  An expenditure for a communication “expressly advocating the election or defeat of a clearly identified candidate that is not made in cooperation, consultation, or concert with, or at the request or suggestion of, a candidate, a candidate’s authorized committee, or their agents, or a political party or its agents.”| ie
+Summary reports | Summarized information about a committees finances, included total money raised and spent per filing period. | reports
+Filings list | A list of reports filed by the committee to the FEC. | filings
 
 **Committee IDs**
 
