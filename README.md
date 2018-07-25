@@ -37,3 +37,6 @@ Get this [from the FEC](https://www.fec.gov/data/). IDs typically start with a "
 + EVERYTOWN FOR GUN SAFETY ACTION FUND - C90015025
 
 More info on the FEC's API can be found here: https://api.open.fec.gov/developers/
+
+## License 
+[MIT](LICENSE.md)
